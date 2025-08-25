@@ -7,6 +7,11 @@
   "web": "https://github.com/yglukhov/jnim",
   "versions": [
     {
+      "tag": "v0.5.3",
+      "hash": "39a8f95c4a58b0af5201ed10f6e555647ff1c92a",
+      "time": 1755637439
+    },
+    {
       "tag": "v0.5.2",
       "hash": "752999701c6a3a6ec248d39e99df699bed187600",
       "time": 1682702165
