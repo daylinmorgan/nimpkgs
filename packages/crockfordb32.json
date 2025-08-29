@@ -8,6 +8,11 @@
   "doc": "https://the-ticking-clockwork.github.io/Crockford-Base32-Nim/",
   "versions": [
     {
+      "tag": "v2.0.1",
+      "hash": "8f42b213a4e35f5fc0b151a0ef76958e76c460a8",
+      "time": 1756262892
+    },
+    {
       "tag": "v2.0.0",
       "hash": "97d87dadda5bf0e98ab2393882cc67eb538bb897",
       "time": 1739988084

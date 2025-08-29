@@ -8,6 +8,11 @@
   "doc": "https://the-ticking-clockwork.github.io/MUTF-8/",
   "versions": [
     {
+      "tag": "v0.1.1",
+      "hash": "5e888d575d5c3a77d88bceaf85efe2768a3bbc29",
+      "time": 1756261733
+    },
+    {
       "tag": "v0.1.0",
       "hash": "d3d7b83ebad31d9dc01a90279b5328086a0798b4",
       "time": 1706967835

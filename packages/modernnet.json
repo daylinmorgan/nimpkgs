@@ -8,6 +8,11 @@
   "doc": "https://nimberite-development.github.io/ModernNet/",
   "versions": [
     {
+      "tag": "v3.2.3",
+      "hash": "5cab19278329a316e41211e2e2315bad559c9611",
+      "time": 1756262598
+    },
+    {
       "tag": "v3.2.2",
       "hash": "1fe8743e0df41ced9104b8d6598d857d537a37d8",
       "time": 1725483485

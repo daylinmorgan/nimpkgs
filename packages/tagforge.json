@@ -8,6 +8,11 @@
   "doc": "https://nimberite-development.github.io/TagForge-Nim/",
   "versions": [
     {
+      "tag": "v0.1.1",
+      "hash": "19c93cca3eb6dd664952f3cb33bba40dedcbc035",
+      "time": 1756262177
+    },
+    {
       "tag": "v0.1.0",
       "hash": "720b26d079e2899b9e748a1aa2b042f83d6be1a9",
       "time": 1707255056

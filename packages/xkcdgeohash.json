@@ -1,0 +1,40 @@
+{
+  "name": "xkcdgeohash",
+  "url": "https://github.com/Naitsabot/xkcdgeohashing.nim",
+  "method": "git",
+  "description": "Nim implementation for the geohashing algorithm described in xkcd #426",
+  "license": "MIT",
+  "web": "https://github.com/Naitsabot/xkcdgeohashing.nim",
+  "doc": "https://naitsabot.github.io/xkcdgeohash/xkcdgeohash.html",
+  "versions": [
+    {
+      "tag": "v1.1.3",
+      "hash": "71e7c9cfad9ceca55e38515e2df50e1f2c82d294",
+      "time": 1756222546
+    },
+    {
+      "tag": "v1.1.2",
+      "hash": "fa9fbb94c4e1141b8095e59d16a8df5fdcf62070",
+      "time": 1756066126
+    },
+    {
+      "tag": "v1.1.1, v1.1.0",
+      "hash": "0987049a0c24c0ad1e755d62866ad8ef115d2323",
+      "time": 1756055852
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "5f8ecd949f4bddc9b492e1135cae030dcf07762e",
+      "time": 1755636388
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "7892bfba789b328e64336a1c93607ef40dd57aec",
+      "time": 1755552016
+    }
+  ],
+  "tags": [
+    "library",
+    "xkcd"
+  ]
+}

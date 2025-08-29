@@ -5,6 +5,13 @@
   "description": "Flexible TOML serialization [not] relying on run-time type information",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-toml-serialization",
+  "versions": [
+    {
+      "tag": "v0.2.16",
+      "hash": "f3480570566b00a9f7ed1abf1f9731fb856ae1f2",
+      "time": 1756282750
+    }
+  ],
   "tags": [
     "library",
     "toml",
