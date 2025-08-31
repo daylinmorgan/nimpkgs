@@ -7,6 +7,16 @@
   "web": "https://github.com/leonardoce/nim-clickhouse",
   "versions": [
     {
+      "tag": "v0.5.1",
+      "hash": "7c1b16458b84692dc6c583d2b54923ad3e21658f",
+      "time": 1756452583
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "5d30037d97109b4b6f9cf07d9f4a23ecb84b7b7f",
+      "time": 1756451378
+    },
+    {
       "tag": "v0.4.0",
       "hash": "21b67967617e885d51fbd8439365796847033e89",
       "time": 1634816516

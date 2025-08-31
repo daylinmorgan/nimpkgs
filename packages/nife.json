@@ -7,6 +7,11 @@
   "web": "https://github.com/ANSI-D/NiFE",
   "versions": [
     {
+      "tag": "v.0.1.2",
+      "hash": "fba0169e22a17259ffee5cf492cdfb2b94574558",
+      "time": 1756487087
+    },
+    {
       "tag": "v0.1.1",
       "hash": "24167483da7980d00fa98e3ce0206ecf58f9607f",
       "time": 1753296084
