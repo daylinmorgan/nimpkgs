@@ -7,6 +7,16 @@
   "web": "https://github.com/elcritch/nesper",
   "versions": [
     {
+      "tag": "v0.8.1",
+      "hash": "fb75ddc5ea8b4e2006dce30aaa2c63766537ead3",
+      "time": 1756683907
+    },
+    {
+      "tag": "v0.8.0",
+      "hash": "135f2d37a3af4ed365d1a2a8ea7473a56b848c5d",
+      "time": 1756633464
+    },
+    {
       "tag": "v0.7.8",
       "hash": "0c3be2e9912b3ee25611c2a04808963bdbefcaab",
       "time": 1747196444
