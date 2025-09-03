@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-chronicles",
   "versions": [
     {
+      "tag": "v0.12.2",
+      "hash": "27ec507429a4eb81edc20f28292ee8ec420be05b",
+      "time": 1756805537
+    },
+    {
       "tag": "v0.12.1",
       "hash": "54f5b726025e8c7385e3a6529d3aa27454c6e6ff",
       "time": 1753450979
