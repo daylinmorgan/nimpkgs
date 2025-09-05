@@ -5,13 +5,6 @@
   "description": "Utilities and simple helpers for programming with Nim on embedded MCU devices",
   "license": "Apache-2.0",
   "web": "https://github.com/EmbeddedNim/mcu_utils",
-  "versions": [
-    {
-      "tag": "v0.1.0",
-      "hash": "2d9f9b773dca73b2c645c214e940fe625d79bfcb",
-      "time": 1639706004
-    }
-  ],
   "tags": [
     "embedded",
     "mcu",
