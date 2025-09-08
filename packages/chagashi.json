@@ -7,6 +7,11 @@
   "web": "https://git.sr.ht/~bptato/chagashi",
   "versions": [
     {
+      "tag": "v0.7.1",
+      "hash": "f8239130ebb601d3a041eb33ebcb1014db5d5675",
+      "time": 1757164742
+    },
+    {
       "tag": "v0.7.0",
       "hash": "f5cf26b044a82a2e3cffe83bb2342b7b029f2ab8",
       "time": 1733587133
