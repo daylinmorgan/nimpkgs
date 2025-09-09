@@ -5,6 +5,13 @@
   "description": "Kaitai Struct runtime library for Nim",
   "license": "MIT",
   "web": "https://github.com/kaitai-io/kaitai_struct_nim_runtime",
+  "versions": [
+    {
+      "tag": "v0.11.0",
+      "hash": "458d424950909c46d82bad3dc6ee8a7bf37c1ce8",
+      "time": 1757365757
+    }
+  ],
   "tags": [
     "library"
   ]
