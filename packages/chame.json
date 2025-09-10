@@ -7,6 +7,11 @@
   "web": "https://chawan.net/doc/chame/",
   "versions": [
     {
+      "tag": "v1.0.5",
+      "hash": "c82fe15fd4d8e1e11718287c61ac70f1583cfca5",
+      "time": 1757440665
+    },
+    {
       "tag": "v1.0.4",
       "hash": "22845492e3f122e4904447ae494174882ee7d0d1",
       "time": 1748017446
