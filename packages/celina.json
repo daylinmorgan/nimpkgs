@@ -5,6 +5,13 @@
   "description": "A CLI library inspired by Ratatui",
   "license": "MIT",
   "web": "https://github.com/fox0430/celina",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "f037ade76cd432b1f27fb0c5cb42a065e4aad9cb",
+      "time": 1758058812
+    }
+  ],
   "tags": [
     "cli",
     "command-line",

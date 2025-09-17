@@ -1,0 +1,28 @@
+{
+  "name": "nimvss",
+  "url": "https://github.com/srozb/nimvss",
+  "method": "git",
+  "description": "Minimal Nim library that provides simple access to Windows Volume Shadow Copy Service (VSS)",
+  "license": "MIT",
+  "web": "https://github.com/srozb/nimvss",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "f1893230017fcca580cd51bf711d9d16e531d4a6",
+      "time": 1758011573
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "190785d00bcda44ee4a3d56151e425114f6ffb69",
+      "time": 1757939325
+    }
+  ],
+  "tags": [
+    "library",
+    "wrapper",
+    "vss",
+    "windows",
+    "shadow",
+    "snapshot"
+  ]
+}
