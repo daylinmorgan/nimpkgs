@@ -1,0 +1,38 @@
+{
+  "name": "diffy",
+  "url": "https://github.com/elcritch/diffy",
+  "method": "git",
+  "description": "Simple diff and sub-image finder with SIMD based on Pixie",
+  "license": "Apache-2.0",
+  "web": "https://github.com/elcritch/diffy",
+  "versions": [
+    {
+      "tag": "v0.3.0",
+      "hash": "4d4281dac2e58f67f64380e02bcb0a94578b5920",
+      "time": 1758110582
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "17efda93e9cd0914e5205ab8009cc697a525e5e6",
+      "time": 1757655078
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "15e71b454eeadf794aa7b218bed261015d032305",
+      "time": 1753087226
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "cbea16d6934450d74e5b79b8da37336d5536ea78",
+      "time": 1753084203
+    }
+  ],
+  "tags": [
+    "image-search",
+    "images",
+    "differences",
+    "searching",
+    "ui-automation",
+    "automation"
+  ]
+}
