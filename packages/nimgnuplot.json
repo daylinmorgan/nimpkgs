@@ -1,0 +1,31 @@
+{
+  "name": "nimgnuplot",
+  "url": "https://github.com/nervecenter/nimgnuplot",
+  "method": "git",
+  "description": "A Nim interface to gnuplot loosely based on pygnuplot.",
+  "license": "MIT",
+  "web": "https://github.com/nervecenter/nimgnuplot",
+  "versions": [
+    {
+      "tag": "v2025.9.22",
+      "hash": "8266f5e96eb36aa629247a8e905be5a379c12ec7",
+      "time": 1758572723
+    },
+    {
+      "tag": "v2025.9.21",
+      "hash": "bc1d61f6dbc87bfe1385b14d2f64e1054167caf1",
+      "time": 1758465537
+    }
+  ],
+  "tags": [
+    "library",
+    "gnuplot",
+    "plotting",
+    "graphics",
+    "plot",
+    "graphing",
+    "chart",
+    "data",
+    "dataframe"
+  ]
+}
