@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-faststreams",
   "versions": [
     {
+      "tag": "v0.5.0",
+      "hash": "ce27581a3e881f782f482cb66dc5b07a02bd615e",
+      "time": 1758821255
+    },
+    {
       "tag": "v0.4.1",
       "hash": "c3ac3f639ed1d62f59d3077d376a29c63ac9750c",
       "time": 1753208543

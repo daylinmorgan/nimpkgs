@@ -7,9 +7,19 @@
   "web": "https://github.com/status-im/nim-toml-serialization",
   "versions": [
     {
+      "tag": "v0.2.18",
+      "hash": "b5b387e6fb2a7cc75d54a269b07cc6218361bd46",
+      "time": 1758824050
+    },
+    {
       "tag": "v0.2.16",
-      "hash": "f3480570566b00a9f7ed1abf1f9731fb856ae1f2",
-      "time": 1756282750
+      "hash": "c8dc4527cc7f27b67f41402451a757668819127c",
+      "time": 1756374989
+    },
+    {
+      "tag": "v0.2.14",
+      "hash": "fea85b27f0badcf617033ca1bc05444b5fd8aa7a",
+      "time": 1728985874
     }
   ],
   "tags": [
