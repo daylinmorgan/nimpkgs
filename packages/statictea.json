@@ -7,6 +7,11 @@
   "web": "https://github.com/flenniken/statictea",
   "versions": [
     {
+      "tag": "v0.1.4",
+      "hash": "b5913ac0610e5642152baffddac315ea4e1e87d5",
+      "time": 1759078715
+    },
+    {
       "tag": "v0.1.3",
       "hash": "09dbaaf57e8295272ec807bd535ab6cef735ae73",
       "time": 1729461353

@@ -1,0 +1,16 @@
+{
+  "name": "NPython",
+  "url": "https://github.com/nimpylib/NPython",
+  "method": "git",
+  "description": "Python interpreter implemented in Nim, supporting JS backends",
+  "license": "MIT",
+  "web": "https://nimpylib.org",
+  "tags": [
+    "python",
+    "vm",
+    "interpreter",
+    "language",
+    "javascript",
+    "node.js"
+  ]
+}

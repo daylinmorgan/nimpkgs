@@ -7,6 +7,11 @@
   "web": "https://github.com/krisppurg/dimscord",
   "versions": [
     {
+      "tag": "v1.8.0",
+      "hash": "f6e578f426d3a04612dafdbe07b63aa9637ddf90",
+      "time": 1759093087
+    },
+    {
       "tag": "v1.6.0",
       "hash": "c012fa6d8378a9373aa7346aafe84ef6aba2a902",
       "time": 1692900010
