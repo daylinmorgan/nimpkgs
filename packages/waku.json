@@ -8,242 +8,242 @@
   "versions": [
     {
       "tag": "v0.36.0",
-      "hash": "dbecd721f9f86e8d05f1506126033fcfa206c084",
+      "hash": "7b234ec78ab6b5dc06bcaf5f5ed6f6754c934873",
       "time": 1750427239
     },
     {
       "tag": "v0.36.0-rc.0",
-      "hash": "60aa5cb48ce4e55afebabc9c97749c4410ac760d",
+      "hash": "739ad46a7ed2a01d8d313f46a0e1caaaa1528aa6",
       "time": 1750423553
     },
     {
       "tag": "v0.35.1",
-      "hash": "72d1fa0d349960280563a1d738efdf6a33ab6d7d",
+      "hash": "9a14446e32689936ab2e23f446da9cd5cdfd8c08",
       "time": 1743405494
     },
     {
       "tag": "v0.35.0",
-      "hash": "f08efa477c336931d0f9c2eb1eaa688e179ee645",
+      "hash": "935e404782f0faef80f87cc115ee6b06437c952e",
       "time": 1741112688
     },
     {
       "tag": "v0.34.0",
-      "hash": "09f05fefe2614d640277f96ae96ab4f2f12c8031",
+      "hash": "3772cb2968fbc97038eb046e9d27c51325ee6284",
       "time": 1732267746
     },
     {
       "tag": "v0.33.1",
-      "hash": "1d16cead9bd323b7fe0281b3e9906b8cfbc371b0",
+      "hash": "97471fa75c3e04043bbbbbdbf9a36d641d3b205c",
       "time": 1727966946
     },
     {
       "tag": "v0.33.0",
-      "hash": "73c1d6074485a33a1c75972ddbfada65b60e3bb8",
+      "hash": "986ebd598d1a347e6e3a20aeb28619e3c3a583b6",
       "time": 1727709970
     },
     {
       "tag": "v0.32.0",
-      "hash": "148a48a78c6d51c39f4913729b8674f834043487",
+      "hash": "3ab6d99fe6c67473c84986484851031a67949c27",
       "time": 1725037632
     },
     {
       "tag": "v0.31.1",
-      "hash": "fde668a6da3530557ece5168e660ad4db9c23944",
+      "hash": "011091a9e2d9e42334088d8f9f7e2e6594844e73",
       "time": 1723455070
     },
     {
       "tag": "v0.31.0",
-      "hash": "b34008e60f23b79206004228bcaba88a30e834ba",
+      "hash": "90410f8b80618913abcea59c0958e98c9b7345f8",
       "time": 1721234556
     },
     {
       "tag": "v0.30.2",
-      "hash": "b5f0c8544043e20d87444a4a82b2e08eb9c1f050",
+      "hash": "6784656ad30f635afde8199a20bb157538b3a411",
       "time": 1720771348
     },
     {
       "tag": "v0.30.1",
-      "hash": "dc337cd210d564d5fa1b8c4b2736e2b21baaafc5",
+      "hash": "147db89a809450c7ca62ac0a6bde3a68ca1264af",
       "time": 1720023771
     },
     {
       "tag": "v0.30.0",
-      "hash": "05356ab97f64dc99b8b043332c985ab6211d8f72",
+      "hash": "e093af4c1245ded22d23cad4d83882a9b15c6c68",
       "time": 1719566356
     },
     {
       "tag": "v0.29.0",
-      "hash": "9a5d90dd6e204c01f14965b6e754264291f308e6",
+      "hash": "3f17b1d9bbc8937d1ea4c6714bce9a9018cabfc8",
       "time": 1718729105
     },
     {
       "tag": "v0.28.1",
-      "hash": "a96a6b94bee2c1b8ae868dea73b970cb98009f28",
+      "hash": "20fdde63b81f316c06e191ec65d96a125b5fca35",
       "time": 1717014824
     },
     {
       "tag": "v0.28.0",
-      "hash": "217dc7a07836aa496fe8959155daec24ab57cfbd",
+      "hash": "4cfa9d710a1e2bd98fd9be6026380bc7143df804",
       "time": 1716364106
     },
     {
       "tag": "v0.27.0",
-      "hash": "99c1d5871859f056e6290fe85e0065126dc6578e",
+      "hash": "3e60e3355822ceee9764d9a7030702d5f1fd88da",
       "time": 1713521504
     },
     {
       "tag": "v0.26.0",
-      "hash": "5beef0c633ffa165670482426cd6400309e97530",
+      "hash": "1fc79306300d69a1632db2991f8171ad2ee47609",
       "time": 1709903806
     },
     {
       "tag": "v0.25.0",
-      "hash": "5e7e8436fe3ca3862ca393794fdb4967f3bd03bd",
+      "hash": "61902342d176ade9aa738a87f0c785cf80056a51",
       "time": 1707907087
     },
     {
       "tag": "v0.24.0",
-      "hash": "7fc8e322d0a5f58ad330eee6fc47d9adc2e43965",
+      "hash": "fa581d761028bb6feb0225769aaacad013b8ded6",
       "time": 1705062780
     },
     {
       "tag": "v0.23.1",
-      "hash": "dcd93339da3633324b912fbef2f0b5465b48e948",
+      "hash": "86affe8ae38f377749bfeed5c0aaa0603766f10a",
       "time": 1704475356
     },
     {
       "tag": "v0.23.0",
-      "hash": "7574f7ea73d4c48fad0360dcc453e1012c8a09d9",
+      "hash": "89a064bed5088442700812757858a87dd4b6af1e",
       "time": 1703084107
     },
     {
       "tag": "v0.22.0",
-      "hash": "0cb7ea98cee519bae60ace61ee722c896bb5c2a9",
+      "hash": "a89586f0b5902db2365696e74a456b82de3eba94",
       "time": 1700055586
     },
     {
       "tag": "v0.21.3",
-      "hash": "43e040e0a9779bb385c3119e1018da184bbb209d",
+      "hash": "3c43b1b1373c4d10fef941609c6197c49c0a0ae7",
       "time": 1699539009
     },
     {
       "tag": "v0.21.2",
-      "hash": "81f8095855552c8636f7e3424fe8f23c6637edaf",
+      "hash": "a715f12855a10eb0efc654f03494af6a83903dee",
       "time": 1699362965
     },
     {
       "tag": "v0.21.1",
-      "hash": "e248643e299f618aa79a2433b15315e561e24cf9",
+      "hash": "148263982532e5629022ea9201e9588c8d7b09ed",
       "time": 1698311576
     },
     {
       "tag": "v0.21.0",
-      "hash": "86af8fba050b0525210b2a5063eccf40a5e728b9",
+      "hash": "86f9151544a7feba39e933e896bef346f36aa5a1",
       "time": 1697639993
     },
     {
       "tag": "v0.20.0",
-      "hash": "57e511fc833f421d24ca54460d0c5b284e70e4fe",
+      "hash": "262d787d7507c52b7e35d5139a76c6fe0935e0ba",
       "time": 1694700235
     },
     {
       "tag": "v0.19.0",
-      "hash": "fa69acb13471aafdee5080ebc1829a3d32861c98",
+      "hash": "e0440d160bddaebc8bad8900f05392ab079f58db",
       "time": 1692170626
     },
     {
       "tag": "v0.18.0",
-      "hash": "0111b88b9b3c13065de6f09844f03c8c0259fcdc",
+      "hash": "8db61bb92177439a1edb6942d4169e1fe7a0b374",
       "time": 1686689333
     },
     {
       "tag": "v0.17.0",
-      "hash": "c4370b3845495ef56b5faab43775803a4f938a17",
+      "hash": "8ecc80615e227cc3c8ca0b38659748112475ac21",
       "time": 1684331416
     },
     {
       "tag": "v0.16.0",
-      "hash": "03f0de365cfee3a946257a6ce8a61fe19284976c",
+      "hash": "7a2e6721620bc46962692472d0217dad2f819715",
       "time": 1678877582
     },
     {
       "tag": "v0.15.0",
-      "hash": "e12b7cb4a8d7084f8174b378d38fa261428e406d",
+      "hash": "1f03ba175d9c0a0234d2bdd98cfd86ad668c3fa9",
       "time": 1676386546
     },
     {
       "tag": "v0.14.0",
-      "hash": "2df6cb1645bb96a496cad600f6789f682c8531ac",
+      "hash": "06bc4f74fe44181f3e340fccc71dce5a71563de4",
       "time": 1673863983
     },
     {
       "tag": "v0.13.0",
-      "hash": "9debd44e2aebf07eaf96b4525a4497c69aaf4445",
+      "hash": "101accd6b2a47b533f1f504445c301305834d379",
       "time": 1668503854
     },
     {
       "tag": "v0.12.0",
-      "hash": "a9fa3a29a41dbe3530b47ef8dbc1f5d7621d1705",
+      "hash": "3501eb315af5fd900cd7a3bf1e5b88025cf14def",
       "time": 1665073798
     },
     {
       "tag": "v0.11",
-      "hash": "fec13974836149c2b81cab8d4178dee7bfc56db1",
+      "hash": "322996e028bbb4880919693f8519a26249e7b236",
       "time": 1660571177
     },
     {
       "tag": "v0.10",
-      "hash": "d754444f4515f5c8163bc7f396c8bd7bb26fe6cc",
+      "hash": "a7b9709d8c842e7907be8d3d4831d1808c6e6031",
       "time": 1655237152
     },
     {
       "tag": "v0.9",
-      "hash": "97f23cd5fa89220912819fc5868c5162d222e72e",
+      "hash": "7d9fb5fb2086d3207e0d96b77c4195639e5a4c23",
       "time": 1648674713
     },
     {
       "tag": "v0.8",
-      "hash": "cf2719031765f8cad6a1b32c042c1f9393c24dd7",
+      "hash": "bad426003f3297c9de99cf4a8bd8894cdd9e6642",
       "time": 1646298535
     },
     {
       "tag": "v0.7",
-      "hash": "dba82b6c9c9a8982608f52955356a2df8efcaf9e",
+      "hash": "4d42dc020bae6637eb279691b7847c8532b70605",
       "time": 1642505408
     },
     {
       "tag": "v0.6",
-      "hash": "ea14823dafcbabd4ac5457b3f1311f2ed62a2d68",
+      "hash": "ab91285d27ffa41f473ab8b6b6b05b0d41018117",
       "time": 1636037508
     },
     {
       "tag": "v0.5.1",
-      "hash": "e0c9a10e0c2e3cb4c2d49613653c51b91d11e75b",
+      "hash": "71b2b1ad1b8a557dc5e82a51f29fb35c20dffb27",
       "time": 1627313695
     },
     {
       "tag": "v0.5",
-      "hash": "e2c0141edc40002960303d95af79b30e6fdbffa4",
+      "hash": "242675fe35d3e78afc11782576fa22053d7b6ba4",
       "time": 1627033333
     },
     {
       "tag": "v0.4",
-      "hash": "5c58a19f4f50e207dcfbf34f4514cc7e88c709e5",
+      "hash": "6e09027cefccc452e004cc5bb8ee029b43764f89",
       "time": 1623334817
     },
     {
       "tag": "v0.3",
-      "hash": "44cafcfee339bed7ff7d014e9cb3111d0c46c733",
+      "hash": "9624553b7ff1cfedcbd169f699ed9b3c900d6a8c",
       "time": 1620823410
     },
     {
       "tag": "v0.2",
-      "hash": "ee85eb8e93ac33eb997fc51966c560d0a5373b8f",
+      "hash": "3a160b57588323d089259468c53e7c0cb814a9c4",
       "time": 1609848020
     },
     {
       "tag": "v0.1",
-      "hash": "d67b12b65c67447d147a81d1c22601228a5e486e",
+      "hash": "3556189ba44eba44b7ff74bddbc4efbed720c971",
       "time": 1606707482
     }
   ],
