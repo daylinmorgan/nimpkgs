@@ -1,0 +1,15 @@
+{
+  "name": "url",
+  "url": "https://github.com/xTrayambak/url",
+  "method": "git",
+  "description": "A high-performance URL parser based on the WHATWG standard.",
+  "license": "BSD-3",
+  "web": "https://github.com/xTrayambak/url",
+  "tags": [
+    "whatwg",
+    "url",
+    "parser",
+    "simd",
+    "sse2"
+  ]
+}

@@ -7,6 +7,11 @@
   "web": "https://github.com/nervecenter/nimgnuplot",
   "versions": [
     {
+      "tag": "v2025.9.30",
+      "hash": "d5e2eb211a53efb0641deadc7df2e1e99503f793",
+      "time": 1759284280
+    },
+    {
       "tag": "v2025.9.22",
       "hash": "8266f5e96eb36aa629247a8e905be5a379c12ec7",
       "time": 1758572723
