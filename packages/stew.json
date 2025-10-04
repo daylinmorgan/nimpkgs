@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-stew",
   "versions": [
     {
+      "tag": "v0.4.2",
+      "hash": "b66168735d6f3841c5239c3169d3fe5fe98b1257",
+      "time": 1759488424
+    },
+    {
       "tag": "v0.4.1",
       "hash": "e5740014961438610d336cd81706582dbf2c96f0",
       "time": 1750246149

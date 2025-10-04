@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-websock",
   "versions": [
     {
+      "tag": "v0.2.1",
+      "hash": "35ae76f1559e835c80f9c1a3943bf995d3dd9eb5",
+      "time": 1759518372
+    },
+    {
       "tag": "v0.2.0",
       "hash": "ebe308a79a7b440a11dfbe74f352be86a3883508",
       "time": 1732771554
