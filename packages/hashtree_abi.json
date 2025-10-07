@@ -1,0 +1,29 @@
+{
+  "name": "hashtree_abi",
+  "url": "https://github.com/OffchainLabs/hashtree",
+  "method": "git",
+  "description": "Low-level ABI package for hashtree, a SHA256 implementation specialized for merkle trees and 64-byte chunks",
+  "license": "MIT",
+  "web": "https://github.com/OffchainLabs/hashtree",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "67979dccfc99b02b488ed8f5fddee9f09aea411e",
+      "time": 1723740831
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "616c243905b38285373771a30e9ba13bf96a3aa8",
+      "time": 1714667427
+    }
+  ],
+  "tags": [
+    "library",
+    "ssz",
+    "serialization",
+    "ethereum",
+    "hash",
+    "crypto",
+    "sha256"
+  ]
+}
