@@ -7,6 +7,16 @@
   "web": "https://github.com/metagn/skinsuit",
   "versions": [
     {
+      "tag": "v0.2.5",
+      "hash": "60450373dd77ba8d04de0d596ee22997774761fb",
+      "time": 1760040099
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "fc10dcb80b42ed610b15a090e71a2c306631c585",
+      "time": 1728174285
+    },
+    {
       "tag": "v0.2.3",
       "hash": "ecdad2ae3b625662261e3ddd28427b6236e89f64",
       "time": 1693993827
