@@ -7,6 +7,11 @@
   "web": "https://github.com/cycneuramus/nmgr",
   "versions": [
     {
+      "tag": "v1.0.1",
+      "hash": "f994df7fdf1f6cc775777b8a7059d59065df0453",
+      "time": 1760439636
+    },
+    {
       "tag": "v1.0.0",
       "hash": "659c53d862706a13550ecda20ad4ed796f247b4a",
       "time": 1745230224

@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-json-serialization",
   "versions": [
     {
+      "tag": "v0.4.4",
+      "hash": "c343b0e243d9e17e2c40f3a8a24340f7c4a71d44",
+      "time": 1760465433
+    },
+    {
       "tag": "v0.4.2",
       "hash": "e076cb9a2dff30e13aad0bb4a13049da86d07967",
       "time": 1753852188
