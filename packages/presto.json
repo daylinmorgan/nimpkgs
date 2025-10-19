@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-presto",
   "versions": [
     {
+      "tag": "v0.1.1",
+      "hash": "d66043dd7ede146442e6c39720c76a20bde5225f",
+      "time": 1760815167
+    },
+    {
       "tag": "v0.1.0",
       "hash": "92b1c7ff141e6920e1f8a98a14c35c1fa098e3be",
       "time": 1730290892

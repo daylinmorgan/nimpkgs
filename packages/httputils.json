@@ -5,6 +5,18 @@
   "description": "Common utilities for implementing HTTP servers",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-http-utils",
+  "versions": [
+    {
+      "tag": "v0.4.0",
+      "hash": "c53852d9e24205b6363bba517fa8ee7bde823691",
+      "time": 1760822215
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "79cbab1460f4c0cdde2084589d017c43a3d7b4f1",
+      "time": 1736754303
+    }
+  ],
   "tags": [
     "http",
     "parsers",
