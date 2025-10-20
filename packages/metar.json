@@ -7,6 +7,11 @@
   "web": "https://github.com/flenniken/metar",
   "versions": [
     {
+      "tag": "v0.1.26",
+      "hash": "ad69ae69c4e9f377713cc2a483d63328f1c7f184",
+      "time": 1760909727
+    },
+    {
       "tag": "v0.1.25",
       "hash": "62b27f29d2e83a2f3927d0f9dbbf685553f323c7",
       "time": 1614385043
