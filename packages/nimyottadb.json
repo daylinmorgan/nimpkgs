@@ -1,0 +1,36 @@
+{
+  "name": "nimyottadb",
+  "url": "https://github.com/ljoeckel/nim-yottadb",
+  "method": "git",
+  "description": "Bindings and a high-level interface with DSL for the YottaDB NoSQL database",
+  "license": "MIT",
+  "web": "https://github.com/ljoeckel/nim-yottadb",
+  "versions": [
+    {
+      "tag": "v0.3.1",
+      "hash": "5d5cf67159bb5e01740e460b2a01831ebdeebd95",
+      "time": 1761069615
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "88cce53ed99b59fe6d5a3779b6b52a07af332353",
+      "time": 1761018584
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "3a7f4d860db20ed8e7fa63509df2493205ff706d",
+      "time": 1760904106
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "0cb61676580b4156c0f925626cbfd0833bf11104",
+      "time": 1760023175
+    }
+  ],
+  "tags": [
+    "database",
+    "nosql",
+    "binding",
+    "dsl"
+  ]
+}
