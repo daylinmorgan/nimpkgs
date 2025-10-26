@@ -1,0 +1,31 @@
+{
+  "name": "owasp_encoder",
+  "url": "https://github.com/superkelvint/owasp-encoder-nim",
+  "method": "git",
+  "description": "A Nim port of the OWASP Java Encoder library for context-aware, secure output encoding to prevent XSS attacks",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/superkelvint/owasp-encoder-nim",
+  "versions": [
+    {
+      "tag": "v0.5.2",
+      "hash": "bac66800de22b70325e6342e058741c10e45e52d",
+      "time": 1761356088
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "ff2306fc84561e858e685c22ca04e3e870a325ef",
+      "time": 1761355785
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "fa7ce473492a4c578ed6e893729190248427fdba",
+      "time": 1761348779
+    }
+  ],
+  "tags": [
+    "owasp_encoder",
+    "encoding",
+    "xss",
+    "security"
+  ]
+}
