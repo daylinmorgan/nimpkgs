@@ -1,11 +1,16 @@
 {
   "name": "libp2p",
-  "url": "https://github.com/status-im/nim-libp2p",
+  "url": "https://github.com/vacp2p/nim-libp2p",
   "method": "git",
   "description": "libp2p implementation in Nim",
   "license": "Apache License 2.0",
-  "web": "https://github.com/status-im/nim-libp2p",
+  "web": "https://github.com/vacp2p/nim-libp2p",
   "versions": [
+    {
+      "tag": "v1.14.3",
+      "hash": "e82080f7b1aa61c6d35fa5311b873f41eff4bb52",
+      "time": 1761665685
+    },
     {
       "tag": "v1.14.2",
       "hash": "0309685cd27d4bf763c8b3be86a76c33bcfe67ea",

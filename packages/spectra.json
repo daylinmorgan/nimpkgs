@@ -1,0 +1,23 @@
+{
+  "name": "spectra",
+  "url": "https://github.com/ph4mished/spectra",
+  "method": "git",
+  "description": "Spectra is a simple text coloring, styling and formatting library(terminal coloring).",
+  "license": "MIT",
+  "web": "https://github.com/ph4mished/spectra",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "bf483ddfb5f4d497ef56d23e64339e369e4c8732",
+      "time": 1760360419
+    }
+  ],
+  "tags": [
+    "cli",
+    "colorize",
+    "color",
+    "palettes",
+    "console",
+    "terminal"
+  ]
+}

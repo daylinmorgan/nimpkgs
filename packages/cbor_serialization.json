@@ -1,0 +1,21 @@
+{
+  "name": "cbor_serialization",
+  "url": "https://github.com/vacp2p/nim-cbor-serialization",
+  "method": "git",
+  "description": "Flexible CBOR serialization not relying on run-time type information",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/vacp2p/nim-cbor-serialization",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "6133e3046d135b26d0a39ad16729a2c4277d2cd5",
+      "time": 1761596915
+    }
+  ],
+  "tags": [
+    "library",
+    "binary",
+    "cbor",
+    "serialization"
+  ]
+}
