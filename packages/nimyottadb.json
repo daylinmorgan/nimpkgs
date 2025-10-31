@@ -7,6 +7,11 @@
   "web": "https://github.com/ljoeckel/nim-yottadb",
   "versions": [
     {
+      "tag": "v0.3.3",
+      "hash": "5bd2a82ec9af632c2202f931940486bf8ddfccdd",
+      "time": 1761818181
+    },
+    {
       "tag": "v.0.3.2",
       "hash": "475278b9ee84e6d0b10198814bcb23499ee2ef4b",
       "time": 1761119068
