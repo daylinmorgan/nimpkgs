@@ -1,0 +1,28 @@
+{
+  "name": "nimsync",
+  "url": "https://github.com/codenimja/nimsync",
+  "method": "git",
+  "description": "Production-ready async runtime with lock-free SPSC channels (615M ops/sec, 31ns P99)",
+  "license": "MIT",
+  "web": "https://github.com/codenimja/nimsync",
+  "versions": [
+    {
+      "tag": "v1.1.0",
+      "hash": "f644cf7b7eb4b35ec5e552b86b95cea36a22ffb5",
+      "time": 1762107947
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "a923130f4a4787b451f584d16dfe96489f6a869e",
+      "time": 1762048827
+    }
+  ],
+  "tags": [
+    "async",
+    "concurrency",
+    "channels",
+    "lock-free",
+    "performance",
+    "structured-concurrency"
+  ]
+}
