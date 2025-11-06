@@ -7,6 +7,11 @@
   "web": "https://brentp.github.io/hts-nim/",
   "versions": [
     {
+      "tag": "v0.3.27",
+      "hash": "16913f35cee99c2c3d76e894e81f716fa3a901c9",
+      "time": 1762385157
+    },
+    {
       "tag": "v0.3.26",
       "hash": "30878d49e06203637f65fc3941a6b02e88a82d10",
       "time": 1761235214

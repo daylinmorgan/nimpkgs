@@ -1,0 +1,23 @@
+{
+  "name": "textalot",
+  "url": "https://github.com/erayzesen/textalot",
+  "method": "git",
+  "description": "A High-Performance Terminal I/O & TUI Engine written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/erayzesen/textalot",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "fe5e6643634a306baf3ae04198e3903c93378293",
+      "time": 1762270492
+    }
+  ],
+  "tags": [
+    "tui",
+    "terminal",
+    "input",
+    "curses",
+    "ui",
+    "render"
+  ]
+}
