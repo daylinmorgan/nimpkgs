@@ -7,6 +7,11 @@
   "web": "https://github.com/Graveflo/nfind",
   "versions": [
     {
+      "tag": "v1.2.0",
+      "hash": "3dc920d1eb4be21d27053730da06abf954c5c6f3",
+      "time": 1762524986
+    },
+    {
       "tag": "v1.1.0",
       "hash": "37087417db85ae530897461ca7195f40d3e9709d",
       "time": 1745554950
