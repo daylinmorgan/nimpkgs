@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-rocksdb",
   "versions": [
     {
+      "tag": "v10.4.2.0",
+      "hash": "1e724b9c1b7ad2cc0f7210e72765a5b459ddd32f",
+      "time": 1756280597
+    },
+    {
       "tag": "v10.2.1.0",
       "hash": "a95240da0f674b014d2b732539f12bed566f2446",
       "time": 1754146113
