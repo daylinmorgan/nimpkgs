@@ -5,6 +5,13 @@
   "description": "Homoiconic dynamic language interpreter in Nim",
   "license": "MIT",
   "web": "https://github.com/gokr/spryvm",
+  "versions": [
+    {
+      "tag": "v0.9.5",
+      "hash": "ce997282be555bc454d993ff5198d6f80c7e295c",
+      "time": 1762903817
+    }
+  ],
   "tags": [
     "interpreter",
     "language",

@@ -1,0 +1,32 @@
+{
+  "name": "quickselect",
+  "url": "https://github.com/nnsee/nim-quickselect",
+  "method": "git",
+  "description": "Nim implementations of the QuickSelect and Floyd-Rivest selection algorithms",
+  "license": "MIT",
+  "web": "https://git.dog/xx/nim-quickselect",
+  "versions": [
+    {
+      "tag": "v1.1.0",
+      "hash": "7b295f4905d90b9e5d95e018f606746c3133c1dd",
+      "time": 1762863271
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "7a81067e479a61979dd08d061ff23df845f106c5",
+      "time": 1762860110
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "a237888af517b701ecdc60f22258d239b460d34b",
+      "time": 1762858654
+    }
+  ],
+  "tags": [
+    "quickselect",
+    "quicksort",
+    "selection",
+    "select",
+    "floyd-rivest"
+  ]
+}
