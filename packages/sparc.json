@@ -5,6 +5,13 @@
   "description": "Schema Parser for Arguments and Commands.",
   "license": "MIT",
   "web": "https://github.com/ph4mished/sparc",
+  "versions": [
+    {
+      "tag": "v.0.1.0",
+      "hash": "22ab7fcfd98001f121dab2ad0b63a1395110e386",
+      "time": 1763153406
+    }
+  ],
   "tags": [
     "console",
     "command-line",
