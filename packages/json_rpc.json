@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-json-rpc",
   "versions": [
     {
+      "tag": "v0.5.4",
+      "hash": "b6e40a776fa2d00b97a9366761fb7da18f31ae5c",
+      "time": 1763207849
+    },
+    {
       "tag": "v0.5.2",
       "hash": "9665c265035f49f5ff94bbffdeadde68e19d6221",
       "time": 1753857067
