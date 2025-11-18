@@ -7,6 +7,11 @@
   "web": "https://ladybugdb.com/",
   "versions": [
     {
+      "tag": "v0.8.0",
+      "hash": "e2c64a0746bcb0db96bbb2aadf3e1600a1f0cade",
+      "time": 1763342554
+    },
+    {
       "tag": "v0.7.0",
       "hash": "363ba15be43bfb30635336b3c8b315693cca463d",
       "time": 1762309714
