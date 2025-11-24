@@ -7,6 +7,11 @@
   "web": "https://flyx.github.io/NimYAML/",
   "versions": [
     {
+      "tag": "v2.2.1",
+      "hash": "c38028a618815fa29cfc08b5fea16f8d262e5cf0",
+      "time": 1763890864
+    },
+    {
       "tag": "v2.2.0",
       "hash": "9e43c0ab26381889a3d932b1e811def60f7408e1",
       "time": 1740229963

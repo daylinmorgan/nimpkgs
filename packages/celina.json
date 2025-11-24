@@ -7,6 +7,11 @@
   "web": "https://github.com/fox0430/celina",
   "versions": [
     {
+      "tag": "v0.4.0",
+      "hash": "d6099682676fa26ae4b85ab25471e8e9305acc82",
+      "time": 1763912962
+    },
+    {
       "tag": "v0.3.0",
       "hash": "fc24b9ff77203a35dfa378def2f01103d4346cdd",
       "time": 1762819713
