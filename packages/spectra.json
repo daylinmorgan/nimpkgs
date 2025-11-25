@@ -7,6 +7,11 @@
   "web": "https://github.com/ph4mished/spectra",
   "versions": [
     {
+      "tag": "v0.2.3",
+      "hash": "f6b5980cc41c147285ff0e9098cbe1398b02283d",
+      "time": 1763980684
+    },
+    {
       "tag": "v0.2.2",
       "hash": "e6505dcf106994c3f8d21c2cd73f06ab4c2f58d1",
       "time": 1763917088
