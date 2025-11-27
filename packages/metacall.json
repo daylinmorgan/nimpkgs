@@ -8,6 +8,11 @@
   "doc": "https://github.com/metacall/core/blob/develop/source/ports/nim_port/README.md",
   "versions": [
     {
+      "tag": "v0.9.16",
+      "hash": "5c3157eaa757708193007c9f7f74fec42d193910",
+      "time": 1764200178
+    },
+    {
       "tag": "v0.9.15",
       "hash": "2b9bad084515a267b3d093af5e20ab1e2bbe95b0",
       "time": 1761836819
