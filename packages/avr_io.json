@@ -7,6 +7,11 @@
   "web": "https://github.com/Abathargh/avr_io/wiki",
   "versions": [
     {
+      "tag": "v0.6.0",
+      "hash": "84647d922a3a688652c844dedea5b0782fa47892",
+      "time": 1764350715
+    },
+    {
       "tag": "v0.5.1",
       "hash": "acb5f103f2336ce1a56cbff762c06d9705800fb8",
       "time": 1760381043
