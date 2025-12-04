@@ -1,0 +1,23 @@
+{
+  "name": "typestates",
+  "url": "https://github.com/elijahr/nim-typestates",
+  "method": "git",
+  "description": "Compile-time state machine validation for Nim. Invalid transitions don't compile.",
+  "license": "MIT",
+  "web": "https://github.com/elijahr/nim-typestates",
+  "doc": "https://elijahr.github.io/nim-typestates/",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "5df80caf3bb029ed7bf092ab7dc6aad146f5c58c",
+      "time": 1764758658
+    }
+  ],
+  "tags": [
+    "state-machine",
+    "design-patterns",
+    "nim-lang",
+    "correct-by-construction",
+    "typestate"
+  ]
+}

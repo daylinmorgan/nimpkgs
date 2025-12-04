@@ -1,0 +1,41 @@
+{
+  "name": "nimby",
+  "url": "https://github.com/treeform/nimby",
+  "method": "git",
+  "description": "Unofficial package manager and installer.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/nimby",
+  "versions": [
+    {
+      "tag": "v0.1.5",
+      "hash": "6cf8609dd4cb831608b4bf62e95d40acea28f8f5",
+      "time": 1761944074
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "a73cb2bb7e1ac1669acf2ef3150dcb0d661af998",
+      "time": 1761936235
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "90fa8fe295faf5156937dc674ee9f3f0f250daad",
+      "time": 1761935519
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "a6e1aab08b2e41d2394cc40a2b4bc6df6d0e0d7a",
+      "time": 1761869244
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "25b67ad240236a7e27277d079d32fad85a678105",
+      "time": 1761865589
+    }
+  ],
+  "tags": [
+    "packages",
+    "lockfile",
+    "install",
+    "ci"
+  ]
+}
