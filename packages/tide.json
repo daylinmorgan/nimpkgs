@@ -1,0 +1,20 @@
+{
+  "name": "tide",
+  "url": "https://github.com/arungeorgesaji/tide",
+  "method": "git",
+  "description": "Modular terminal editor framework",
+  "license": "MIT",
+  "web": "https://github.com/arungeorgesaji/tide",
+  "versions": [
+    {
+      "tag": "v1.0",
+      "hash": "65bd307623f1e9b366af82da88ec2d9fa0e112cb",
+      "time": 1765217596
+    }
+  ],
+  "tags": [
+    "editor",
+    "terminal",
+    "tui"
+  ]
+}

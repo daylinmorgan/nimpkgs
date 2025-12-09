@@ -1,0 +1,19 @@
+{
+  "name": "stfrunner",
+  "url": "https://github.com/flenniken/stfrunner",
+  "method": "git",
+  "description": "A single test file runner.",
+  "license": "MIT",
+  "web": "https://github.com/flenniken/stfrunner",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "f9ce494fca369738c07bb2cddcd9b01871c777cd",
+      "time": 1765128870
+    }
+  ],
+  "tags": [
+    "test",
+    "stf"
+  ]
+}
