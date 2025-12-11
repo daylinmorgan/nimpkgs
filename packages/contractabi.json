@@ -5,6 +5,13 @@
   "description": "ABI Encoding for Ethereum contracts",
   "license": "MIT",
   "web": "https://github.com/status-im/nim-contract-abi",
+  "versions": [
+    {
+      "tag": "v0.7.3",
+      "hash": "0a7b4cecce725bcb11ad8648035a92704a8854d3",
+      "time": 1765398590
+    }
+  ],
   "tags": [
     "ethereum",
     "contract",
