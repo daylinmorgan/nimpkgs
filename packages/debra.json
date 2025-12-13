@@ -8,6 +8,11 @@
   "doc": "https://elijahr.github.io/nim-debra/",
   "versions": [
     {
+      "tag": "v0.1.1",
+      "hash": "1c5880f2aa438d312ea0809840847843f5cd1b0c",
+      "time": 1765537856
+    },
+    {
       "tag": "v0.1.0",
       "hash": "3fda88ef17f130bbdeb70f540db35c2890846021",
       "time": 1765420301

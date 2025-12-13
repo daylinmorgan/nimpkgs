@@ -8,6 +8,11 @@
   "doc": "https://elijahr.github.io/nim-typestates/",
   "versions": [
     {
+      "tag": "v0.3.0",
+      "hash": "01973108d617b848116527dd0a7767445d085a11",
+      "time": 1765538309
+    },
+    {
       "tag": "v0.2.1",
       "hash": "da13541504ff93b302beba738630925e771e723d",
       "time": 1765178752
