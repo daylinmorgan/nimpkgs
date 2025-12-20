@@ -1,0 +1,22 @@
+{
+  "name": "pyrepr",
+  "url": "https://github.com/nimpylib/pyrepr",
+  "method": "git",
+  "description": "Python-like repr, ascii, hex/oct/bin, ...",
+  "license": "MIT",
+  "web": "https://nimpylib.org",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "d667ddb30c3dccb72f154957d12ac01efc53637f",
+      "time": 1766123808
+    }
+  ],
+  "tags": [
+    "library",
+    "pylib",
+    "python",
+    "utils",
+    "repr"
+  ]
+}

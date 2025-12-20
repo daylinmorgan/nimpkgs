@@ -1,0 +1,14 @@
+{
+  "name": "hashbrowns",
+  "url": "https://github.com/bk20x/Hashbrowns",
+  "method": "git",
+  "description": "Small GUI utility for hashing files or mass hashing directories",
+  "license": "MIT",
+  "web": "https://github.com/bk20x/Hashbrowns",
+  "tags": [
+    "hash",
+    "hashing",
+    "utility",
+    "gui"
+  ]
+}
