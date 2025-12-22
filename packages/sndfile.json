@@ -7,6 +7,11 @@
   "web": "https://github.com/SpotlightKid/nim-sndfile",
   "versions": [
     {
+      "tag": "v0.2.6",
+      "hash": "94591b36e0f10f2ca8211f8f76751cfc93b12d61",
+      "time": 1766314560
+    },
+    {
       "tag": "v0.2.5",
       "hash": "72670e656ecd6626659e46b1a3882dc35c8f09f3",
       "time": 1751606780
